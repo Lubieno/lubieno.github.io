@@ -1,2 +1,2 @@
-# lubien.github.io
+# lubieno.github.io
 Strona testowa
