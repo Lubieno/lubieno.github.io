@@ -1,4 +1,5 @@
 body, html {
+  background-color: black;
   margin: 0;
   padding: 0;
   height: 100%;
@@ -6,7 +7,7 @@ body, html {
 }
 
 .background {
-  background-color: midnightblue;
+  background-color: #010101;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -18,7 +19,7 @@ body, html {
   padding: 40px;
   border-radius: 15px;
   box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-  max-width: 80%;
+  max-width: 400px;
   text-align: center;
 }
 
